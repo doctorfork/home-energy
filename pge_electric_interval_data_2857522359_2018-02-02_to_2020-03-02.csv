@@ -1,7 +1,7 @@
-﻿Name,DAVID FORK
-Address,"878 SAN RAFAEL AVE, MOUNTAIN VIEW CA 94043-1924"
-Account Number,2856788123
-Service,2857522359
+﻿Name,-------
+Address,"----------, MOUNTAIN VIEW CA 94043-1924"
+Account Number,---------
+Service,-----------
 
 TYPE,DATE,START TIME,END TIME,USAGE,UNITS,COST,NOTES
 Electric usage,2018-02-02,00:00,00:59,7.83,kWh,$0.99,
